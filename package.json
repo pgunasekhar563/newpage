@@ -1,0 +1,22 @@
+{
+  "name": "newpage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgunasekhar563/newpage.git"
+  },
+  "author": "pallala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgunasekhar563/newpage/issues"
+  },
+  "homepage": "https://github.com/pgunasekhar563/newpage#readme",
+  "dependencies": {
+    "xpressio": "^2.1.0"
+  }
+}
